@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/valorant-stat-stracker/static/css/main.76099070.chunk.css",
+    "main.js": "/valorant-stat-stracker/static/js/main.6fda6984.chunk.js",
+    "main.js.map": "/valorant-stat-stracker/static/js/main.6fda6984.chunk.js.map",
+    "runtime-main.js": "/valorant-stat-stracker/static/js/runtime-main.d4b77290.js",
+    "runtime-main.js.map": "/valorant-stat-stracker/static/js/runtime-main.d4b77290.js.map",
+    "static/js/2.f6657430.chunk.js": "/valorant-stat-stracker/static/js/2.f6657430.chunk.js",
+    "static/js/2.f6657430.chunk.js.map": "/valorant-stat-stracker/static/js/2.f6657430.chunk.js.map",
+    "index.html": "/valorant-stat-stracker/index.html",
+    "precache-manifest.f260f4422a73e167db7088e14e62fa33.js": "/valorant-stat-stracker/precache-manifest.f260f4422a73e167db7088e14e62fa33.js",
+    "service-worker.js": "/valorant-stat-stracker/service-worker.js",
+    "static/css/main.76099070.chunk.css.map": "/valorant-stat-stracker/static/css/main.76099070.chunk.css.map",
+    "static/js/2.f6657430.chunk.js.LICENSE.txt": "/valorant-stat-stracker/static/js/2.f6657430.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/valorant-stat-stracker/static/media/github.ff1d322d.png",
+    "static/media/App.css": "/valorant-stat-stracker/static/media/k5c2c4ndk0s41.82f24771.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b77290.js",
+    "static/js/2.f6657430.chunk.js",
+    "static/css/main.76099070.chunk.css",
+    "static/js/main.6fda6984.chunk.js"
+  ]
+}
